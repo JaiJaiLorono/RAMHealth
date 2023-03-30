@@ -17,6 +17,13 @@
         },
         {
             // insert launcher configuration here for the debugger
+        },
+        {
+            "name": "Jairus Laptop VS Code",
+            "type": "msedge",
+            "request": "launch",
+            "reAttach": true,
+            "file":"C:\\Users\\Jairus\\Documents\\GitHub\\RAMHealth\\RAMHealth\\Login\\new_login.html"
         }
     ]
 }
